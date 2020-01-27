@@ -7,11 +7,19 @@ Doelgroep: Volwassene, jonge kinderen 1 - 4 jaar oud<br>
 Doel: Informeren, dialoog aanwakkeren<br>
 Proces: Onderzoek onderwerp digitaal, uitwerking analoog en digitaal<br>***
 
-### Research overzicht___ 
+# Research overzicht___ 
 
-**_Elsagate:_ <br>
-Wat is Elsagate? <br>
-Ontstaan van Elsagate <br>
+**_Elsagate:_** <br>
+<details><summary> <b>Wat is Elsagate?</b> </summary>
+ElsaGate is een fenomeen op YouTube waarbij  video’s geschikt lijken voor jonge kinderen terwijl dit eigelijk niet het geval is. Het is verontrustend om te bedenken dat dit soort content op gigantisch veel kanalen terug te vinden is en het bijna onvermijdelijk is geworden voor jonge kinderen om deze video’s niet tegen te komen. 
+<br><br>
+  
+Elsagate is de wolf in schaapskleren op Youtube. Er staan tig video’s online waarin bekende cartoonfiguren zoals Spiderman, Frozen Elsa, Joker en Mickey Mouse die vreemd of ongepaste gedrag vertonen. Deze video’s zijn specifiek gericht op jonge kinderen.
+</details>
+
+<details><summary>Ontstaan van Elsagate </summary>
+
+</details>
 Waarmee kunnen we Elsagate mee vergelijken/verwarren?**<br> <br> 
 
 

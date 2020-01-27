@@ -165,7 +165,96 @@ Voordeel voor de makers: Een channel post tig video’s per dag = alert voor You
 - Volgens de wet, "you can't collect data on children under the age of 13 without parents permission” Ook wel COPPA genoemd. Houdt je je niet aan deze wet, loop je het risico op een boete van $42,000. Doordat men nu moet aangeven of het content is voor kinderen, verliezen makers advertentie inkomsten. Zal Elsagate een gat in de markt blijven daardoor of opdrogen? <br> 
 - De video’s zijn zich nu ook aan het verspreiden op dailymotion.com en de content was ook terug te vinden in verschillende apps. Het verspreid zich dus naar andere platforms. <br>  
 </details>
-Interessante quotes en bevindingen**<br> <br> 
+
+<details><summary><b>Interessante quotes en bevindingen</b></summary>
+
+https://www.theverge.com/2017/12/8/16751206/elsagate-youtube-kids-creepy-conspiracy-theory <br> 
+>“Many r/elsagate members firmly believe that there is some darker strategy at work within these videos that has yet to be revealed. “I believe there is something much more sinister going on with these videos, like mind control or behavior modification.”<br> <br> 
+
+
+https://www.theverge.com/2017/12/8/16751206/elsagate-youtube-kids-creepy-conspiracy-theory<br> 
+>“Yes, this is all about youtube’s monetization algorithms and people gaming the system to make money. Young children love children Frozen, and they love Spider-Man, and so the tagging system becomes self-fulfilling as people generate more Frozen and Spider-Man content to rack up views from children. The more views, the more exposure, the more money”.<br> <br> 
+
+https://www.theverge.com/2017/12/8/16751206/elsagate-youtube-kids-creepy-conspiracy-theory
+>“If you just want to get a load of clicks by appealing to kids, just rip a load of actual cartoons into your channel. There’s no need to do something as controversial as this that is obviously going to get flagged eventually”.<br> <br> 
+
+https://www.theverge.com/2017/12/8/16751206/elsagate-youtube-kids-creepy-conspiracy-theory
+>“Not suggesting incompetence, yes this is a deliberate act. But as BananaRama1 suggestions, the only conspiracy is people gaming the system to make money, and that could include bots making comments if it helps generate more views somehow.”<br> <br> 
+
+https://www.youtube.com/watch?v=NkdycOa1gm8
+>“Repetition is a tool in hypnosis”.<br> <br> 
+
+https://www.ted.com/talks/james_bridle_the_nightmare_videos_of_children_s_youtube_and_what_s_wrong_with_the_internet_today
+>“Fake news for kids”.<br> <br> 
+
+https://www.theweek.co.uk/89701/does-elsagate-prove-youtube-is-too-big-to-control 
+>“Does ‘Elsagate’ prove YouTube is too big to control?” <br> <br> 
+
+https://www.reddit.com/r/ElsaGate/comments/dypmqb/elsagate_is_gonna_die_off_if_the_coppa_thing_goes/
+>Because of the COPPA law “Almost everything will die off. ALL forms of animation. Anything gaming (because apparently gaming is just a kid thing). Lots of genres will die off”.<br> <br> 
+
+https://www.reddit.com/r/ElsaGate/comments/dypmqb/elsagate_is_gonna_die_off_if_the_coppa_thing_goes/
+>“If they find a video and deem it "child directed", they will fine the content creator like a redonkulous amount of money. So they could do that, and risk the fine, or basically have a channel death sentence by saying they are child directed. It's a lose lose situation”.<br> <br> 
+
+https://youtube.fandom.com/wiki/Elsagate
+>On November 28, Forbes presented Elsagate as an example of the "dark underbelly of the digital age". The article's author commented that the "gargantuan scale" of the problem seemed to indicate that children's content on YouTube had become "a monster beyond our control" and that "it's terrifying to imagine how many toddlers have been affected" by Elsagate, "in ways beyond our comprehension”.<br> <br> 
+
+
+https://youtube.fandom.com/wiki/Elsagate
+>The New York Times found that one of the channels featuring counterfeit cartoons, Super Zeus TV, was linked to a website called SuperKidsShop.com, registered in Ho Chi Minh City, Vietnam. A man working for SuperKidsShop.com confirmed that his partners were responsible for the videos, on which "a team of about 100 people" were working. Subsequent requests for an interview went unanswered.<br> <br> 
+
+
+https://youtube.fandom.com/wiki/Elsagate
+>On November 23, French-Canadian outlet Tabloïd released a video investigation about Toy Monster, a channel linked to Webs and Tiaras. They confronted the videos' creators – based out of the south shore of Quebec City – who refused to be interviewed. One of the actors featured in the videos anonymously stated that he was contractually obligated to refrain from comment. The investigation revealed that identical content was being posted on numerous channels apparently operated by the same people.<br> <br> 
+
+
+https://youtube.fandom.com/wiki/Elsagate
+>On November 22, 2017 YouTube announced that it had deleted over 50 channels and thousands of videos which did not fit the new guidelines. On November 27, the company said in a statement to BuzzFeed News that it had "terminated more than 270 accounts and removed over 150,000 videos", "turned off comments on more than 625,000 videos targeted by child predators" and "removed ads from nearly 2 million videos and over 50,000 channels masquerading as family-friendly content". Forbes commented that many problematic videos could still be seen on the platform and that "the sheer volume of videos hastily deleted from the site prove that YouTube's algorithms were utterly ineffective at protecting young children”.<br> <br> 
+
+https://grapeshotmq.com.au/2018/06/news-elsagate/
+>“Starting with Family Finger Song video - Around 10 videos later – the content becoming stranger and stranger – I came across a thumbnail that depicted a scary looking, long haired woman (think Samara from The Ring) between two crying children. Jackpot! Titled ‘Kartun Lucu Upin Dan Ipin 2018, Rumah Hantu, The Best Cartoons The newest compilation Part 1’ the video depicts two strange baby characters exploring a haunted house (complete with unnerving horror soundtrack) and being terrorised by the long-haired ghost lady. Later, a humanoid creature in a straight jacket and covered in blood opens bursts through the door and hunts the two kids while they try to hide. The kind of shit that would give a toddler nightmares”.<br> <br> 
+
+
+https://www.reddit.com/r/conspiracy/comments/7uaqir/4chan_partially_uncovers_connection_between_the/
+>“4chan /pol/ user stumbled upon h3h3 podcast about elsagate videos, after which he decided to check them out himself. He got intrigued about the gibberish comments and for some reason tried to decode them. Decoding the comments led to ciphered twitter pages, and deciphering them led to more videos, more ciphered images and comments, and eventually to a document describing "pig pen cipher", which gave us half an url for something called "the final cipher", the most important discovery however was that one of the ciphered messages led us to a yahoo conversation posted by the same person that comments gibberish on elsagate videos. The yahoo post goes deeply into describing an organization called "The finders", who are allegedly connected to child traficking/CIA. Why would a person with such knowledge of the group go as far as ciphering youtube comments on elsagate videos?”<br> <br> 
+
+
+https://www.reddit.com/r/conspiracy/comments/7t1082/a_woman_registered_a_company_in_china_and_hired/
+>“Unlike many countries where kids are exposed to the Elsagate clips when they use Youtube, China has blocked Youtube and other foreign media websites long time ago. However, similar videos still manage to percolate and appear on Chinese media sites since 2016. Early this month, these videos finally gained the attention of Chinese mainstream media and have been immediately deleted.<br> 
+Ok, enough of this jibber jabber. So the official department who is responsible for censoring videos and books found a company who is not only translating elsagate videos downloaded from Youtube, but also producing similar videos with dolls, toys and real actors including kids and adults. This company was registered by a woman, who, according to the registration info, is either from Hong Kong, or Macao, or Taiwan. This woman only contacts her employees via QQ, an instant messaging tool like Skype, and sends manuscripts to them to shoot videos accordingly.
+The above is from a Chinese media site, http://new.qq.com/omn/20180122/20180122A0PTFG.html
+Now many people are suspecting these homemade elsagate videos, whose prime target is kids, are not only immoral but also politically motivated.”<br> <br> 
+
+https://www.theverge.com/2017/12/8/16751206/elsagate-youtube-kids-creepy-conspiracy-theory
+>One theory currently making its way through r/elsagate has to do with how some of these videos use colors. Naming colors is a classic kid’s game, but some users have found the same pattern of colors used over and over: red, blue, yellow, pink, green. Is it some kind of code? One member made the connection to the use of color associations in cult abuse: were Elsagate videos triggering some kind of pre-programmed response in children? Often there would be gibberish comments at the bottom of the videos, either bots trying to game the algorithm or, if you believe 4chan, some kind of coded message.“I saw the video where some guy decrypted the code on a hidden YouTube video so that each color had a corresponding command/theme assigned to it,” one poster wrote. “Really creepy shit.”<br> <br> 
+
+- Type VVG in de Youtube zoekbalk en er verschijnen talloze rare afspeellijsten met Elsagate video’s. <br> <br> 
+
+- Misschien is het wel een soort tegenreactie op de huidige educative content voor kinderen? “…Don’t share the American idea form of what acceptable children’s entertainment looks like.”<br> <br> 
+
+- Typerend is het uploaden van video’s, verwijderd worden, her-uploaden onder een andere naam, keer op keer!<br> <br> 
+
+- Elsagate video’s ook gevonden op in de Appstore (inmiddels verwijderd). <br> <br> 
+
+https://www.reddit.com/r/conspiracy/comments/7e90wi/elsagate_doesnt_just_exist_on_youtube_they_also/
+>So the people telling you it's not deliberate, or an AI algorithm splicing together different videos are full of shit. I don't know if the games have been removed (probably not), but many involved objectives such as performing a C section on a pregnant Elsa. I saw my daughter (then 4) playing it. She also found a ton of similar games on a website called http://www.mafa.com, which can also be found by googling "girl games”. This network is way more extensive than most realize, so don't let people distract you with their bullshit theories.
+Edit: another reason I don't believe it's "random", is how often "finger family song" is associated with these videos. Listen to the lyrics to the song, it reads exactly like something an adult would recite to a child to groom them for molestation. <br> <br> 
+
+https://www.nytimes.com/2019/06/14/opinion/youtube-algorithm.html
+>The problem hasn’t been fixed. Nearly two years after “Elsagate,” as the issue with unsuitable content was dubbed, the issue still persists. In 2019, researchers analyzed thousands of videos targeted at toddlers aged between 1 and 5 featuring characters popular with kids. They also tracked how YouTube recommended subsequent videos and found that there’s a 3.5 percent chance of a child coming across inappropriate footage within 10 clicks of a child-friendly video.That’s particularly concerning because of data analyzed for my book, “YouTubers,” published this week, by The Insights People, who survey 20,000 children and their parents about their media usage. Just four in 10 parents always monitor their child’s YouTube usage — and one in 20 children aged 4-to-12 say their parents never check what they’re watching. <br> <br> 
+
+https://www.theweek.co.uk/89701/does-elsagate-prove-youtube-is-too-big-to-control
+>Contrary to what some parents may believe, content on YouTube’s dedicated Kids app is not curated or even pre-screened by humans. Instead, suggested videos appear in its autoplay list automatically based on shared keywords or similar audiences.
+The sheer size of YouTube’s catalogue goes beyond the capabilities of human oversight. Content is uploaded to the platform at the equivalent of 400 hours of video every minute, according to Statista.<br> <br> 
+
+https://arxiv.org/pdf/1901.07046.pdf
+>Most of the disturbing and restricted videos in the Elsagate-related videos are in: Entertainment (24% and 31%), People & Blogs (28% and 22%), and Film & Animation (22% and 12%).<br> 
+
+
+
+
+
+</details>
 
 
 **_Kijkgedrag:_ <br>

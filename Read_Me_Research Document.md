@@ -252,7 +252,7 @@ https://arxiv.org/pdf/1901.07046.pdf
 
 </details>
 
-
+<br>
 **_Kijkgedrag:_** <br>
 <details><summary><b>Kenmerkend aan kijkgedrag op Youtube van kinderen 0 - 4 jaar </b></summary>
 - Gevoelig voor thumbnails met vrolijke en herkenbare cartoon- en filmpersonages. <br>
@@ -285,7 +285,7 @@ https://arxiv.org/pdf/1901.07046.pdf
 - Aantrekkelijke/betrouwbaar lijkende thumbnails voor kinderen = Clickbait.<br>
 </details>
 
-
+<br>
 **_Concept vormgeving:_** <br> 
 <details><summary><b>Visualisatie Elsagate Data Design</b></summary> 
 Kinderboek/prentenboek maken waar een tablet de Augmented Reality versie laat zien, de Elsagate versie. 
@@ -299,12 +299,54 @@ In die versie zit research en data verwerkt over het onderwerp om ouders en verz
 - Voorbeeld, Dikkie Dik van Jet Boeke en Arthur van Norden de boekjes van “Kikker” van Max Velthuijs. <br>
 - Het totaal aantal woorden is beperkt (ergens tussen de 100 en 700).  <br>
 </details>  
-Boek over Elsagate? <br>
-Uitwerking opties visualisatie** <br> <br> 
 
+<details><summary><b>Bestaat er al een boek over Elsagate?</b></summary>  
+Niet echt, behalve;
+Family Finger Song Book AA.VV.
+ 
+ </details>
 
-**_Bronnen:_ <br>
-Links video’s en artikelen**<br> 
+<details><summary><b>Uitwerking opties visualisatie</b></summary> 
+- Shots pakken van Elsagate video’s en deze content uitschrijven in een kinderverhaal.<br>
+- Controversiële versie van het verhaal.<br>
+- Online links van onderzoek verwerken als bronvermelding.<br>
+- Frames van een Elsagate video uitprinten, met de Family Finger Song tekst erbij. <br>
+- Elsagate video gebruiken als visual en zelf een verhaal eromheen verzinnen om het kindvriendelijk te laten lijken qua tekst        
+—> Visuals spreken dat tegen, in de ogen van de volwassene omdat zij in de visuals kindonvriendelijke visuals kunnen herkennen en de kinderen zelf nog niet. <br>
+- Bekende cartoons gebruiken voor een prentenboek.<br>
+- Onbekende, slecht gerenderde cartoons gebruiken voor prentenboek.<br>
+- Controversiele cartoons gebruiken voor prentenboek, denk aan Hitler in vrouwenlichaam met bikini aan. <br>
+- Youtube kader eromheen.<br>
+- Transparant, digitaal uitgummen van figuren en digitaal er weer inzetten.<br>
+- Beginnen met zogenaamd video 1 en zo doorgaan tot 10 als in de aanbevolen video’s die leidden naar Elsagate.<br></details>
+<br>
+  
+**_Bronnen:_** <br>
+<details><summary><b>Links video’s en artikelen </b></summary> 
+https://www.youtube.com/watch?time_continue=29&v=UMnVvV7e7Ow <br>
+https://www.youtube.com/watch?v=oat9ArOzSnk <br>
+https://www.youtube.com/watch?time_continue=31&v=oWC8dry6Mag <br>
+https://www.youtube.com/watch?v=a30VItA6odw <br>
+https://www.youtube.com/watch?v=DfMGRTX0sdI <br>
+https://www.youtube.com/watch?v=AyGcuaqVUKk&list=PL8h0KAHGm1CTekQWTmMC9AznbZLCvH2xK <br>
+https://www.youtube.com/watch?v=4L9Dh5wl318 <br>
+https://www.youtube.com/watch?v=WsKVxAmafnk <br>
+https://www.youtube.com/watch?v=LKp2gikIkD8 <br>
+https://www.youtube.com/watch?v=bu_DeDrCJNo <br>
+https://www.theverge.com/2017/12/8/16751206/elsagate-youtube-kids-creepy-conspiracy-theory <br>
+https://www.youtube.com/watch?v=afamhuZLDjM <br>
+https://www.reddit.com/r/ElsaGate/ <br>
+https://www.tubefilter.com/2017/11/24/advertisers-suspend-youtube-elsagate/ <br>
+https://www.youtube.com/watch?v=lNbJoncamAA <br>
+https://www.youtube.com/watch?v=tTNXEmUK1i0&list=PLg20L6rI-41IuY0EqB0XvMtJ4QXKPp-EI&index=16 <br>
+https://www.reddit.com/r/UnresolvedMysteries/comments/7irvj8/elsagate_who_is_making_thousands_of_disturbing/ <br>
+https://www.youtube.com/watch?v=LKp2gikIkD8&feature=youtu.be <br>
+https://www.youtube.com/watch?v=-JzXiSkoFKw <br>
+https://www.youtube.com/watch?v=QGMEXXxD1eo <br>
+https://arxiv.org/pdf/1901.07046.pdf <br>
+https://www.vox.com/the-goods/2019/3/22/18275767/toy-unboxing-videos-youtube-advertising-ethics <br>
+https://medium.com/this-is-hcd/how-youtube-is-failing-children-and-what-it-means-for-designing-ai-moderated-experiences-b36181646f9c <br>
+https://arxiv.org/pdf/1901.07046.pdf <br>
+  <br>
+</details>
 
-
-___________________________________________________________________________

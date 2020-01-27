@@ -37,13 +37,12 @@ Uiteraard met cartoons voor volwassene. Denk aan;
 - Rick and Morty<br>
 <br>
 Een groot verschil met dit soort programma’s is dat deze opzettelijk bedoeld zijn voor de volwassene generatie en qua verhaallijn daar ook op inspeelt. De context heeft een diepere laag dan alleen educatie. Het kan bijvoorbeeld gaan over complexe systemen binnen de maatschappij of bewust een parodie zijn op elementen die volwassenen herkennen uit hun eigen dagelijks leven. 
-Kinderprogramma’s (0 - 4 jaar) hebben daarentegen geen diepere laag behalve dat het simpele educatie en vermaak biedt. Het grote verschil tussen de twee is het motief. 
-</details><br>
+Kinderprogramma’s (0 - 4 jaar) hebben daarentegen geen diepere laag behalve dat het simpele educatie en vermaak biedt. Het grote verschil tussen de twee is het motief. <br>
 
 [Elsagate Flowchart](https://imgur.com/9iDHw0B)
+<br>
+</details><br>
 
-<br>
-<br>
 
 **_Family Finger Song:_**<br>
 <details><summary><b>Lyrics Family Finger Song</b></summary>
@@ -87,6 +86,21 @@ Moeder - wijsvinger<br>
 Zoon - middelvinger<br> 
 Dochter - Ringvinger<br> 
 Baby (onbekend geslacht) - Roze<br> <br> 
+  
+[Finger Family Song Screenshot 1](https://imgur.com/BoW9zOR)
+[Finger Family Song Screenshot 2](https://imgur.com/9YiHeAE)
+[Finger Family Song Screenshot 3](https://imgur.com/nu6kvtq)
+[Finger Family Song Screenshot 4](https://imgur.com/CdWYMlm)
+[Finger Family Song Screenshot 5](https://imgur.com/puldJHo)
+[Finger Family Song Screenshot 6](https://imgur.com/W85wXnV)
+[Finger Family Song Screenshot 7](https://imgur.com/i0p5Oav)
+[Finger Family Song Screenshot 8](https://imgur.com/aBEPv2m)
+[Finger Family Song Screenshot 9](https://imgur.com/J5tM5O0)
+[Finger Family Song Screenshot 10](https://imgur.com/IZTuHrM)
+[Finger Family Song Screenshot 11](https://imgur.com/FMVPZgM)
+[Finger Family Song Screenshot 12](https://imgur.com/bJiWiKI)
+[Finger Family Song Screenshot 13](https://imgur.com/Bf0iMmI)
+<br>
 </details><br> 
 
 
@@ -113,6 +127,27 @@ In de onschuldige essentie gaat het om kleuren en termen leren (dieren, familie,
 - Fysieke autoriteit tussen kind en volwassene <br>
 - Seksualiseren van zwangere kinderen, wat gezien moet worden als iets positiefs  <br>
   <br>
+  
+[Elsagate Screenshot 1](https://imgur.com/7QX1KMV)
+[Elsagate Screenshot 2](https://imgur.com/3w0T41U)
+[Elsagate Screenshot 3](https://imgur.com/1yjNMnl)
+[Elsagate Screenshot 4](https://imgur.com/3rRVlkO)
+[Elsagate Screenshot 5](https://imgur.com/6azSvsm)
+[Elsagate Screenshot 6](https://imgur.com/nV4xO1s)
+[Elsagate Screenshot 7](https://imgur.com/y9m6th8)
+[Elsagate Screenshot 8](https://imgur.com/r0NBdFY)
+[Elsagate Screenshot 9](https://imgur.com/XarCBsc)
+[Elsagate Screenshot 10](https://imgur.com/JJFMeZs)
+[Elsagate Screenshot 11](https://imgur.com/TGs28AA)
+[Elsagate Screenshot 12](https://imgur.com/BOVeQPU)
+[Elsagate Screenshot 13](https://imgur.com/cND8ORr)
+[Elsagate Screenshot 14](https://imgur.com/odwCBca)
+[Elsagate Screenshot 15](https://imgur.com/xd6AJmC)
+[Elsagate Screenshot 16](https://imgur.com/d0xJEFf)
+[Elsagate Screenshot 17](https://imgur.com/BEZsPbD)
+[Elsagate Screenshot 18]()
+[Elsagate Screenshot 19]()
+[Elsagate Screenshot 20]()
   
   [Terugkerende elementen Elsagate content](https://imgur.com/xDsX0ZO)
   
@@ -353,6 +388,7 @@ https://www.reddit.com/r/UnresolvedMysteries/comments/7irvj8/elsagate_who_is_mak
 https://www.youtube.com/watch?v=LKp2gikIkD8&feature=youtu.be <br>
 https://www.youtube.com/watch?v=-JzXiSkoFKw <br>
 https://www.youtube.com/watch?v=QGMEXXxD1eo <br>
+https://www.youtube.com/watch?v=tTNXEmUK1i0&list=PLg20L6rI-41IuY0EqB0XvMtJ4QXKPp-EI&index=16 <br>
 https://arxiv.org/pdf/1901.07046.pdf <br>
 https://www.vox.com/the-goods/2019/3/22/18275767/toy-unboxing-videos-youtube-advertising-ethics <br>
 https://medium.com/this-is-hcd/how-youtube-is-failing-children-and-what-it-means-for-designing-ai-moderated-experiences-b36181646f9c <br>

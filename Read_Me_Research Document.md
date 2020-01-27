@@ -250,9 +250,9 @@ The sheer size of YouTube’s catalogue goes beyond the capabilities of human ov
 https://arxiv.org/pdf/1901.07046.pdf
 >Most of the disturbing and restricted videos in the Elsagate-related videos are in: Entertainment (24% and 31%), People & Blogs (28% and 22%), and Film & Animation (22% and 12%).<br> 
 
-</details>
+</details><br>
 
-<br>
+
 **_Kijkgedrag:_** <br>
 <details><summary><b>Kenmerkend aan kijkgedrag op Youtube van kinderen 0 - 4 jaar </b></summary>
 - Gevoelig voor thumbnails met vrolijke en herkenbare cartoon- en filmpersonages. <br>
@@ -283,9 +283,8 @@ https://arxiv.org/pdf/1901.07046.pdf
 - Video’s duren vrij lang. Een muziek nummer duurt meestal tussen de 02.00 en 04.00 min. terwijl Elsagate video’s vaak rond de 10.00  - 20.00 min. duren. <br>
 - Miljoenen views.<br>
 - Aantrekkelijke/betrouwbaar lijkende thumbnails voor kinderen = Clickbait.<br>
-</details>
+</details><br>
 
-<br>
 **_Concept vormgeving:_** <br> 
 <details><summary><b>Visualisatie Elsagate Data Design</b></summary> 
 Kinderboek/prentenboek maken waar een tablet de Augmented Reality versie laat zien, de Elsagate versie. 

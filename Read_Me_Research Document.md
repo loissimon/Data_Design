@@ -3,7 +3,7 @@
 
 ***Onderwerp: Elsagate <br>
 Vorm: Grafische vormgeving, Augmented Reality<br>
-Doelgroep: Volwassene, jonge kinderen 1 - 4 jaar oud<br>
+Doelgroep: Volwassene, jonge kinderen 0 - 4 jaar oud<br>
 Doel: Informeren, dialoog aanwakkeren<br>
 Proces: Onderzoek onderwerp digitaal, uitwerking analoog en digitaal<br>***
 
@@ -26,15 +26,15 @@ Een van de eerste Finger Family Song video’s ge-upload op Youtube kwam uit Ind
 <details><summary><b>Waar kunnen we Elsagate mee vergelijken/verwarren?</b></summary>
 Uiteraard met cartoons voor volwassene. Denk aan;
 <br><br>
-Happy Tree Friends<br>
-Don’t Hug Me I’m Scared<br>
-Southpark<br>
-Family Guy<br>
-Mr Pickles<br>
-The Simpsons<br>
-Futurama<br>
-Beavis and Butthead<br>
-Rick and Morty<br>
+- Happy Tree Friends<br>
+- Don’t Hug Me I’m Scared<br>
+- Southpark<br>
+- Family Guy<br>
+- Mr Pickles<br>
+- The Simpsons<br>
+- Futurama<br>
+- Beavis and Butthead<br>
+- Rick and Morty<br>
 <br>
 Een groot verschil met dit soort programma’s is dat deze opzettelijk bedoeld zijn voor de volwassene generatie en qua verhaallijn daar ook op inspeelt. De context heeft een diepere laag dan alleen educatie. Het kan bijvoorbeeld gaan over complexe systemen binnen de maatschappij of bewust een parodie zijn op elementen die volwassenen herkennen uit hun eigen dagelijks leven. 
 Kinderprogramma’s (0 - 4 jaar) hebben daarentegen geen diepere laag behalve dat het simpele educatie en vermaak biedt. Het grote verschil tussen de twee is het motief. 
@@ -88,9 +88,9 @@ Baby (onbekend geslacht) - Roze<br> <br>
 **_Inhoud Elsagate:_**<br>
 <details><summary><b>Veelvoorkomende Elsagate categorieën</b></summary>
 
-Finger Family Song<br>
-Toys unboxing<br>
-Learn colours<br>
+- Finger Family Song<br>
+- Toys unboxing<br>
+- Learn colours<br>
 <br> 
 </details>
   
@@ -99,22 +99,72 @@ In de onschuldige essentie gaat het om kleuren en termen leren (dieren, familie,
 </details>
     
 <details><summary><b>Terugkerende thema’s</b></summary>
-Stelen van alcohol en vechten<br>
-Ongelukken <br>
-Fobie voor spinnen en insecten<br>
-Eten en drinken van poep en plas <br>
-Naald injecties <br>
-Zwangerschap & abortus <br>
-Fysieke autoriteit tussen kind en volwassene <br>
-Seksualiseren van zwangere kinderen, wat gezien moet worden als iets positiefs  <br>
+- Stelen van alcohol en vechten<br>
+- Ongelukken <br>
+- Fobie voor spinnen en insecten<br>
+- Eten en drinken van poep en plas <br>
+- Naald injecties <br>
+- Zwangerschap & abortus <br>
+- Fysieke autoriteit tussen kind en volwassene <br>
+- Seksualiseren van zwangere kinderen, wat gezien moet worden als iets positiefs  <br>
   <br>
+  
+  
 </details> 
   
-Voorbeelden van Elsagate titels <br>
-Doel Elsagate <br>
-Elsagate makers <br>
-Groei van Elsagate <br>
-Toekomst van Elsagate <br>
+<details><summary><b>Voorbeelden van Elsagate titels </b></summary>
+- Halloween Finger Family & more Halloween Songs for Children | Kids Halloween Songs Collection <br><br>
+- Australian Animals Finger Family Song | Finger Family Nursery Rhymes <br><br>
+- Farm Animals Finger Family and more Animals Songs | Finger Family Collection - Learn Animals Sounds <br><br>
+- Safari Animals Finger Family Song | Elephant, Lion, Giraffe, Zebra & Hippo! Wild Animals for kids <br><br>
+- Superheroes Finger Family and more Finger Family Songs! Superhero Finger Family Collection <br><br>
+- Batman Finger Family Song, Superheroes and Villains! Batman, Joker, Riddler, Catwoman  <br><br>
+- Spongebob Pineapple Raped Kidneys Harvested in Mexico! Finger Family Nursery Rhymes  <br><br>
+- Lesbian Elsa Suicidal Emo Minion Leg Amputation in Tibet Full Episodes! finger family nursery rhymes <br><br>
+</details>
+
+
+<details><summary><b>Doel Elsagate </b></summary>
+Volgens  https://www.youtube.com/watch?v=GiXrq5kleuM <br><br>
+- Hit your friends<br>
+- Blood is funny <br>
+- Poop is for eating<br>
+- When an adults sits on top of you, don’t fight back<br>
+<br>
+Doel, het normaliseren van ongepast contenten en thema’s. <br><br>
+
+De inhoud van online kinderen is een van de weinige alternatieve manieren om geld te verdienen met 3D-animatie, omdat de esthetische normen lager zijn en onafhankelijke productie schaalvoordelen kan behalen. Het maakt gebruik van bestaande en gemakkelijk beschikbare inhoud (zoals personage modellen en motion-capture-bibliotheken) en het kan eindeloos worden herhaald en herzien.
+<br>
+</details>
+
+<details><summary><b>Elsagate makers </b></summary>
+- https://www.reddit.com/r/ElsaGate/comments/7bzjt5/possibly_creators_of_some_elsagate_2d_videos/<br><br>
+- Videogyan (India) <br><br>
+- Banana Cartoon (Egypt) When you go to their about page, you can find an email. When you search that in google, you discover that the account is associated to multiple brands that distribute viral content (mostly goals and football matches). Also, you can find it in a list of pwned email accounts. Searching for that email, you can discover that THESE VIDEOS ARE CREATED BY A COMPANY CALLED VIOLA TV.<br><br>
+- De accounts~ van de eerste Elsagate video’s kwam van oorsprong uit India. <br><br>
+- Elsagate video’s waarin echte mensen spelen komen voornamelijk uit Rusland blijkt. <br><br>
+- Those mouth assets are from a 2010 Flash Animated show on YT, BFDI. These mouths are used everywhere because its probably what first appears when you search for "Mouth clipart”<br>
+</details>
+
+<details><summary><b>Groei van Elsagate </b></summary> 
+Strategie erachter:<br><br>
+- Video’s verschijnen op verschillenden kanalen. <br>
+- Geen diefstal want uiteindelijk horen ze bij hetzelfde moeder-kanaal.<br>
+- Een breed netwerk opzetten waardoor het lijkt alsof er een grote diversiteit is aan content. Dit is eigelijk een illusie!<br>
+- Youtube search algorithms en recommended video hebben als functie dat niet een channel alle andere channels domineert. <br>
+- Het laat een variatie aan video’s / content / kanalen zien.<br><br>
+
+Voordeel voor de makers: Een channel post tig video’s per dag = alert voor Youtube en kans op delete van kanaal is groot. Tig channel post een video per dag per channel = omzeilen de regels van Youtube. Voor hen is het moeilijk om te traceren wie de makers zijn. <br>
+</details> 
+
+<details><summary><b>Toekomst van Elsagate </b></summary>
+- Youtube heeft de regels voor het plaatsen van video’s aangescherpt. Men moet nu aanvinken dat de content geschikt is voor kinderen.<br> 
+- Bewust maken dat die effect kan hebben op het referentiekader van kinderen.<br> 
+- Bewust maken op een aandeel hebben in het verder verspreiden en ontwikkelen van dit soort content en de organisaties erachter. Kunnen in de toekomst geavanceerder worden? <br> 
+- Is er een link met 4chan / 8chan / 8kun in dit systeem? Conspiracy? <br> 
+- Volgens de wet, "you can't collect data on children under the age of 13 without parents permission” Ook wel COPPA genoemd. Houdt je je niet aan deze wet, loop je het risico op een boete van $42,000. Doordat men nu moet aangeven of het content is voor kinderen, verliezen makers advertentie inkomsten. Zal Elsagate een gat in de markt blijven daardoor of opdrogen? <br> 
+- De video’s zijn zich nu ook aan het verspreiden op dailymotion.com en de content was ook terug te vinden in verschillende apps. Het verspreid zich dus naar andere platforms. <br>  
+</details>
 Interessante quotes en bevindingen**<br> <br> 
 
 

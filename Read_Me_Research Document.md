@@ -17,9 +17,13 @@ ElsaGate is een fenomeen op YouTube waarbij  video’s geschikt lijken voor jong
 Elsagate is de wolf in schaapskleren op Youtube. Er staan tig video’s online waarin bekende cartoonfiguren zoals Spiderman, Frozen Elsa, Joker en Mickey Mouse die vreemd of ongepaste gedrag vertonen. Deze video’s zijn specifiek gericht op jonge kinderen.
 </details>
 
-<details><summary>Ontstaan van Elsagate </summary>
+<details><summary><b>Ontstaan van Elsagate</b></summary>
+Het is fenomeen is ontstaan vanuit het kinderliedje Finger Family Song. Dit is weer afkomstig van een veel oudere rijm liedje genaamd "Tommy Thumb", en mogelijk een Japans lied, "Ohanashi yubi-san" (Talking Fingers).
+<br><br>
+Een van de eerste Finger Family Song video’s ge-upload op Youtube kwam uit India.
 
 </details>
+
 Waarmee kunnen we Elsagate mee vergelijken/verwarren?**<br> <br> 
 
 

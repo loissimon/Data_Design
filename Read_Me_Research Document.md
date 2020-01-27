@@ -40,6 +40,11 @@ Een groot verschil met dit soort programma’s is dat deze opzettelijk bedoeld z
 Kinderprogramma’s (0 - 4 jaar) hebben daarentegen geen diepere laag behalve dat het simpele educatie en vermaak biedt. Het grote verschil tussen de twee is het motief. 
 </details><br>
 
+[Elsagate Flowchart](https://imgur.com/9iDHw0B)
+
+<br>
+<br>
+
 **_Family Finger Song:_**<br>
 <details><summary><b>Lyrics Family Finger Song</b></summary>
 <br><br>  
@@ -109,6 +114,7 @@ In de onschuldige essentie gaat het om kleuren en termen leren (dieren, familie,
 - Seksualiseren van zwangere kinderen, wat gezien moet worden als iets positiefs  <br>
   <br>
   
+  [Terugkerende elementen Elsagate content](https://imgur.com/xDsX0ZO)
   
 </details> 
   
@@ -164,6 +170,8 @@ Voordeel voor de makers: Een channel post tig video’s per dag = alert voor You
 - Is er een link met 4chan / 8chan / 8kun in dit systeem? Conspiracy? <br> 
 - Volgens de wet, "you can't collect data on children under the age of 13 without parents permission” Ook wel COPPA genoemd. Houdt je je niet aan deze wet, loop je het risico op een boete van $42,000. Doordat men nu moet aangeven of het content is voor kinderen, verliezen makers advertentie inkomsten. Zal Elsagate een gat in de markt blijven daardoor of opdrogen?  
 
+
+[Youtube Fined](https://imgur.com/EgjPgeD)
 [Coppa Law restricties](https://imgur.com/XdiGPBi)  
   <br> 
 - De video’s zijn zich nu ook aan het verspreiden op dailymotion.com en de content was ook terug te vinden in verschillende apps. Het verspreid zich dus naar andere platforms. <br>  

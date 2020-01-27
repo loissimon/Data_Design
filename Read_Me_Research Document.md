@@ -41,14 +41,75 @@ Kinderprogramma’s (0 - 4 jaar) hebben daarentegen geen diepere laag behalve da
 </details><br>
 
 **_Family Finger Song:_**<br>
-Lyrics Family Finger Song 
-Kenmerkend aan Finger Family Song <br> 
+<details><summary><b>Lyrics Family Finger Song</b></summary>
+<br><br>  
+<i>Daddy finger, daddy finger. Where are you?
+<br><br>
+Here I am, here I am. 
+How do you do?
+<br><br>
+Mommy finger, mommy finger.
+Where are you?
+<br><br>
+Here I am, here I am.
+How do you do?
+<br><br>
+Brother finger, brother finger.
+Where are you? 
+<br><br>
+Here I am, here I am.
+How do you do?
+<br><br>
+Sister finger, sister finger.
+Where are you?
+<br><br>
+Here I am, here I am.
+How do you do?
+<br><br>
+Baby finger, baby finger.
+Where are you? 
+<br><br>
+Here I am, here I am.
+  How do you do?</i>
+<br><br> 
+</details>  
+
+<details><summary><b>Kenmerkend aan Finger Family Song</b></summary> 
+De hiërarchie en het liedje constant herhalen:
+<br> <br> 
+Vader - Duim<br> 
+Moeder - wijsvinger<br> 
+Zoon - middelvinger<br> 
+Dochter - Ringvinger<br> 
+Baby (onbekend geslacht) - Roze<br> <br> 
+</details><br> 
 
 
-**_Inhoud Elsagate:_ <br>
-Veelvoorkomende Elsagate categorieën <br>
-Wat gebeurd er in Elsagate video’s <br>
-Terugkerende thema’s <br>
+**_Inhoud Elsagate:_**<br>
+<details><summary><b>Veelvoorkomende Elsagate categorieën</b></summary>
+
+Finger Family Song<br>
+Toys unboxing<br>
+Learn colours<br>
+<br> 
+</details>
+  
+<details><summary><b>Wat gebeurd er in Elsagate video’s</b></summary>
+In de onschuldige essentie gaat het om kleuren en termen leren (dieren, familie, objecten) in de vorm van een kinderliedje dat zichzelf constant herhaalt. 
+</details>
+    
+<details><summary><b>Terugkerende thema’s</b></summary>
+Stelen van alcohol en vechten<br>
+Ongelukken <br>
+Fobie voor spinnen en insecten<br>
+Eten en drinken van poep en plas <br>
+Naald injecties <br>
+Zwangerschap & abortus <br>
+Fysieke autoriteit tussen kind en volwassene <br>
+Seksualiseren van zwangere kinderen, wat gezien moet worden als iets positiefs  <br>
+  <br>
+</details> 
+  
 Voorbeelden van Elsagate titels <br>
 Doel Elsagate <br>
 Elsagate makers <br>

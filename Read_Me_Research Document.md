@@ -162,7 +162,7 @@ Voordeel voor de makers: Een channel post tig video’s per dag = alert voor You
 - Bewust maken dat die effect kan hebben op het referentiekader van kinderen.<br> 
 - Bewust maken op een aandeel hebben in het verder verspreiden en ontwikkelen van dit soort content en de organisaties erachter. Kunnen in de toekomst geavanceerder worden? <br> 
 - Is er een link met 4chan / 8chan / 8kun in dit systeem? Conspiracy? <br> 
-- Volgens de wet, "you can't collect data on children under the age of 13 without parents permission” Ook wel COPPA genoemd. Houdt je je niet aan deze wet, loop je het risico op een boete van $42,000. Doordat men nu moet aangeven of het content is voor kinderen, verliezen makers advertentie inkomsten. Zal Elsagate een gat in de markt blijven daardoor of opdrogen?  [ Coppa Law restricties ](https://imgur.com/XdiGPBi) <br> 
+- Volgens de wet, "you can't collect data on children under the age of 13 without parents permission” Ook wel COPPA genoemd. Houdt je je niet aan deze wet, loop je het risico op een boete van $42,000. Doordat men nu moet aangeven of het content is voor kinderen, verliezen makers advertentie inkomsten. Zal Elsagate een gat in de markt blijven daardoor of opdrogen?  ![Coppa Law restricties](https://imgur.com/XdiGPBi) <br> 
 - De video’s zijn zich nu ook aan het verspreiden op dailymotion.com en de content was ook terug te vinden in verschillende apps. Het verspreid zich dus naar andere platforms. <br>  
 </details>
 

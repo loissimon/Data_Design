@@ -226,7 +226,7 @@ The above is from a Chinese media site, http://new.qq.com/omn/20180122/20180122A
 Now many people are suspecting these homemade elsagate videos, whose prime target is kids, are not only immoral but also politically motivated.”<br> <br> 
 
 https://www.theverge.com/2017/12/8/16751206/elsagate-youtube-kids-creepy-conspiracy-theory
->One theory currently making its way through r/elsagate has to do with how some of these videos use colors. Naming colors is a classic kid’s game, but some users have found the same pattern of colors used over and over: red, blue, yellow, pink, green. Is it some kind of code? One member made the connection to the use of color associations in cult abuse: were Elsagate videos triggering some kind of pre-programmed response in children? Often there would be gibberish comments at the bottom of the videos, either bots trying to game the algorithm or, if you believe 4chan, some kind of coded message.“I saw the video where some guy decrypted the code on a hidden YouTube video so that each color had a corresponding command/theme assigned to it,” one poster wrote. “Really creepy shit.”<br> <br> 
+>One theory currently making its way through r/elsagate has to do with how some of these videos use colors. Naming colors is a classic kid’s game, but some users have found the same pattern of colors used over and over: red, blue, yellow, pink, green. Is it some kind of code? One member made the connection to the use of color associations in cult abuse: were Elsagate videos triggering some kind of pre-programmed response in children? Often there would be gibberish comments at the bottom of the videos, either bots trying to game the algorithm or, if you believe 4chan, some kind of coded message.“I saw the video where some guy decrypted the code on a hidden YouTube video so that each color had a corresponding command/theme assigned to it,” one poster wrote. “Really creepy shit.”<br> <br> <br><br>
 
 - Type VVG in de Youtube zoekbalk en er verschijnen talloze rare afspeellijsten met Elsagate video’s. <br> <br> 
 
@@ -234,7 +234,7 @@ https://www.theverge.com/2017/12/8/16751206/elsagate-youtube-kids-creepy-conspir
 
 - Typerend is het uploaden van video’s, verwijderd worden, her-uploaden onder een andere naam, keer op keer!<br> <br> 
 
-- Elsagate video’s ook gevonden op in de Appstore (inmiddels verwijderd). <br> <br> 
+- Elsagate video’s ook gevonden op in de Appstore (inmiddels verwijderd). <br> <br> <br><br>
 
 https://www.reddit.com/r/conspiracy/comments/7e90wi/elsagate_doesnt_just_exist_on_youtube_they_also/
 >So the people telling you it's not deliberate, or an AI algorithm splicing together different videos are full of shit. I don't know if the games have been removed (probably not), but many involved objectives such as performing a C section on a pregnant Elsa. I saw my daughter (then 4) playing it. She also found a ton of similar games on a website called http://www.mafa.com, which can also be found by googling "girl games”. This network is way more extensive than most realize, so don't let people distract you with their bullshit theories.
@@ -250,22 +250,55 @@ The sheer size of YouTube’s catalogue goes beyond the capabilities of human ov
 https://arxiv.org/pdf/1901.07046.pdf
 >Most of the disturbing and restricted videos in the Elsagate-related videos are in: Entertainment (24% and 31%), People & Blogs (28% and 22%), and Film & Animation (22% and 12%).<br> 
 
-
-
-
-
 </details>
 
 
-**_Kijkgedrag:_ <br>
-Kenmerkend aan kijkgedrag op Youtube van kinderen 0 - 4 jaar <br>
-Kenmerkend aan gebruikelijke video content voor kinderen 0 - 4 jaar <br>
-Kenmerkend aan ongebruikelijke video content (Elsagate) voor kinderen 0 - 4 jaar** <br> <br>  
+**_Kijkgedrag:_** <br>
+<details><summary><b>Kenmerkend aan kijkgedrag op Youtube van kinderen 0 - 4 jaar </b></summary>
+- Gevoelig voor thumbnails met vrolijke en herkenbare cartoon- en filmpersonages. <br>
+- Klikken op een volgende video of dezelfde video herhalen zonder dit door te hebben. <br>
+- Comments zijn er vrij weinig aangezien deze doelgroep nog niet kan lezen/schrijven.<br>
+  
+</details>
+
+<details><summary><b>Kenmerkend aan gebruikelijke video content voor kinderen 0 - 4 jaar </b></summary>
+- Aantrekkelijke/betrouwbare thumbnails voor kinderen.<br>
+- Rare comments, brabbeltaal mogelijk geschreven door bots, jonge kinderen of codetaal.<br>
+- Eenvoudige animaties; lichaams- en gezichtsbewegingen niet perse gesynchroniseerd met het nummer zelf.<br>
+- Geluid/muziek: Dierlijke geluiden, herkenbare liedjes voor kinderen.<br>
+- Eenvoudige verhaallijnen die voornamelijk gericht zijn op educatie. <br>
+</details>
+
+<details><summary><b>Kenmerkend aan ongebruikelijke video content (Elsagate) voor kinderen 0 - 4 jaar</b></summary>
+- Extreem lange titels. Waarschijnlijk om de zoekfunctie van de metadata te vergroten. Vooral als het gaat om videos’s voor hele jonge kinderen. Zij kunnen nog niet lezen /schrijven dus is de titel voor hen niet relevant maar puur alleen in het belang van de makers zelf.<br>
+- Geluid/muziek: Dierlijke geluiden, herkenbare liedjes voor kinderen.<br>
+- Eenvoudige animaties; lichaams- en gezichtsbewegingen niet perse gesynchroniseerd met het nummer zelf.<br>
+- Gebruik van populaire cartoon- en filmpersonages (Spiderman, Peppa Pig, Mikey Mouse, Elsa).<br>
+- Herhalende liedjes.<br>
+- Vaak 2D-animatie maar tegenwoordig meestal 3D-gerenderd.<br>
+- Hergebruik van animatiemodellen. Alleen enkele details wijzigen zoals kleur en cartoon- en filmpersonages.<br>
+- Echte mensen verkleed als bekende cartoon- en filmpersonages.<br>
+- Rare comments, brabbeltaal mogelijk geschreven door bots, jonge kinderen of codetaal. <br>
+- Het is een soort rare mix van bekende cartoon- en filmpersonages en slecht uitgevoerde animaties- en of acteurs. Het onderscheidt tussen computer en mens is soms bijna niet te zien. Denk aan Turing test.<br>
+- Video’s duren vrij lang. Een muziek nummer duurt meestal tussen de 02.00 en 04.00 min. terwijl Elsagate video’s vaak rond de 10.00  - 20.00 min. duren. <br>
+- Miljoenen views.<br>
+- Aantrekkelijke/betrouwbaar lijkende thumbnails voor kinderen = Clickbait.<br>
+</details>
 
 
-**_Concept vormgeving:_ <br> 
-Visualisatie Elsagate Data Design <br>
-Kenmerkend prentenboek <br>
+**_Concept vormgeving:_** <br> 
+<details><summary><b>Visualisatie Elsagate Data Design</b></summary> 
+Kinderboek/prentenboek maken waar een tablet de Augmented Reality versie laat zien, de Elsagate versie. 
+In die versie zit research en data verwerkt over het onderwerp om ouders en verzorgers te informeren en een dialoog aan te wakkeren.  
+
+</details>
+<details><summary><b>Kenmerkend prentenboek</b></summary>  
+- Een prentenboek combineert tekst en illustraties die elkaar aanvullen en samen een verhaal vertellen.<br>
+- Vaak moet er een probleem opgelost worden in het verhaal.<br>
+- Een prentenboek zal veelal worden voorgelezen door ouders waar de illustraties en tekst het kind (en ouder) geboeid houden. <br>- De afloop van het verhaal moet ook wel positief zijn (het probleem wordt opgelost) of in ieder geval bevredigend zijn.<br>
+- Voorbeeld, Dikkie Dik van Jet Boeke en Arthur van Norden de boekjes van “Kikker” van Max Velthuijs. <br>
+- Het totaal aantal woorden is beperkt (ergens tussen de 100 en 700).  <br>
+</details>  
 Boek over Elsagate? <br>
 Uitwerking opties visualisatie** <br> <br> 
 

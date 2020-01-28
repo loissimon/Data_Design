@@ -447,7 +447,15 @@ https://www.youtube.com/watch?v=SCr8hTnYKjM <br>
 https://www.youtube.com/watch?v=-ybqPhNg0CM&list=PLqBuX5uE9BovCW23lscRDHGLPW53lkSzo <br>
 https://www.youtube.com/watch?v=-HIFX5VcXlQ <br>
 https://www.youtube.com/watch?v=G9s_RH2drE0 <br>
-https://www.youtube.com/channel/UC6JGfIZBAuc8ZiH-DrIKaYQ/videos <br>
+https://www.youtube.com/channel/UC6JGfIZBAuc8ZiH-DrIKaYQ/videos 
+  
+<br><br>
+20150729 Masterthesis Brigitte Hillenaar 3505782 Universiteit Utrecht.pdf <br>
+How Peppa Pig became a video nightmare for children | Technology | The Guardian.pdf <br>
+Anna Hart, 3510611, Bachelor Eindwerkstuk, blok 1.docx <br>
+Onbegrijpelijk. De dood in Sesamstraat, scriptie.doc <br>
+Top 10 Tekenfilms Voor Volwassenen - Alletop10lijstjes.pdf <br>
+
 
 
                                                

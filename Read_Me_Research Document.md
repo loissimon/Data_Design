@@ -366,7 +366,46 @@ Family Finger Song Book AA.VV.
 - Transparant, digitaal uitgummen van figuren en digitaal er weer inzetten.<br>
 - Beginnen met zogenaamd video 1 en zo doorgaan tot 10 als in de aanbevolen video’s die leidden naar Elsagate.<br></details>
 <br>
+
+**_Prentenboek:_** <br>
+<details><summary><b>Inspiratie </b></summary>
+[Inspiratie Prentenboek 1](https://imgur.com/3BvJQ6I)<br>
+[Inspiratie Prentenboek 2](https://imgur.com/0EogBdc)<br>
+[Inspiratie Prentenboek 3](https://imgur.com/2n6m5si)<br>
+http://www.deleukstevoorleesboeken.nl/voorleesboek/lieve-snoetjes/ <br>
+https://www.youtube.com/watch?v=Kj81KC-Gm64&feature=emb_logo <br>
+https://www.youtube.com/watch?v=DuJzLzE36uA <br>
+http://www.deleukstevoorleesboeken.nl/voorleesboek/mooiste-vis-zee/ <br>
+https://jufanke.nl/boekrecensies.html <br>
+https://www.youtube.com/watch?v=Otnip3-zDus <br>
+https://www.youtube.com/watch?v=oHC4reKYEvQ <br>
+https://www.youtube.com/watch?v=MHRDM5nb8Ks <br> 
+https://www.youtube.com/watch?v=ph1ap9i9pA0 <br>
+https://www.youtube.com/watch?v=sLpW53E0r8w <br>
+https://www.youtube.com/watch?v=Fhs10Yh-PiQ <br>
+                                              
+
+
   
+  
+  
+  
+  
+  
+  
+</details><br>
+
+<details><summary><b>Visueel proces met schetsen/experimenten </b></summary>
+[
+
+
+</details><br>
+
+
+
+
+
+
 **_Bronnen:_** <br>
 <details><summary><b>Links video’s en artikelen </b></summary> 
 https://www.youtube.com/watch?time_continue=29&v=UMnVvV7e7Ow <br>
@@ -394,6 +433,8 @@ https://arxiv.org/pdf/1901.07046.pdf <br>
 https://www.vox.com/the-goods/2019/3/22/18275767/toy-unboxing-videos-youtube-advertising-ethics <br>
 https://medium.com/this-is-hcd/how-youtube-is-failing-children-and-what-it-means-for-designing-ai-moderated-experiences-b36181646f9c <br>
 https://arxiv.org/pdf/1901.07046.pdf <br>
+https://www.youtube.com/watch?time_continue=6&v=E8Cw-S6fSf0&feature=emb_logo <br>
+https://www.youtube.com/watch?v=bRqSwxKujCc&list=PLg20L6rI-41IuY0EqB0XvMtJ4QXKPp-EI&index=43 <br>
   <br>
 </details>
 

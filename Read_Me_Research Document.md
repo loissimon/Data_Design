@@ -333,9 +333,12 @@ https://arxiv.org/pdf/1901.07046.pdf
 </details><br>
 
 **_Concept vormgeving:_** <br> 
-<details><summary><b>Visualisatie Elsagate Data Design</b></summary> 
-Kinderboek/prentenboek maken waar een tablet de Augmented Reality versie laat zien, de Elsagate versie. 
-In die versie zit research en data verwerkt over het onderwerp om ouders en verzorgers te informeren en een dialoog aan te wakkeren.  
+<details><summary><b>Visualisatie Elsagate Data Design</b></summary>   
+Smartphones en tablets zijn tegenwoordig niet meer weg te denken bij jonge kinderen. Het lezen van verhaaltjes voor het slapengaan is een van de weinige overgebleven activiteiten die kind en ouder samen uitvoeren met als doel educatie en vermaak ter gelijker tijd.  
+
+Het idee  is om een prentenboekje voor het slapengaan die vermaak biedt voor kind en ouder samen en de ouders daarnaast ook extra informeert wat betreft het onderwerp Elsagate. Het verhaal en de visuals van het prentenboekje zien er op het eerste gezicht misschien normaal uit maar laten een andere laag zien als de tablet gebruikt wordt(Augemented Reality).
+
+Research en data over het onderwerp met als doel een dialoog aan te wakkeren. 
 
 </details>
 <details><summary><b>Kenmerkend prentenboek</b></summary>  

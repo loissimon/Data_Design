@@ -430,6 +430,15 @@ https://medium.com/this-is-hcd/how-youtube-is-failing-children-and-what-it-means
 https://arxiv.org/pdf/1901.07046.pdf <br>
 https://www.youtube.com/watch?time_continue=6&v=E8Cw-S6fSf0&feature=emb_logo <br>
 https://www.youtube.com/watch?v=bRqSwxKujCc&list=PLg20L6rI-41IuY0EqB0XvMtJ4QXKPp-EI&index=43 <br>
+https://www.youtube.com/playlist?list=PLg20L6rI-41IuY0EqB0XvMtJ4QXKPp-EI <br>
+https://www.youtube.com/channel/UCTu5DsHnkSTwy5Dj3UojodA/videos <br>
+https://www.youtube.com/channel/UC_Cy4X0ZEmSS7KhLO0I9uJg/videos <br>
+https://www.youtube.com/playlist?list=PLukWvGHPbYxtqrHj5B0kvvb5uSFbEAxav<br>
+https://www.youtube.com/user/keahikoolguy/videos <br>
+https://www.youtube.com/watch?v=a30VItA6odw <br>
+https://www.youtube.com/watch?v=m8HDVBe1T-Q <br>
+
+
   <br>
 </details>
 

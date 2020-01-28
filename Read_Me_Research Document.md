@@ -393,6 +393,9 @@ https://www.youtube.com/watch?v=Fhs10Yh-PiQ <br>
 [Schetsen tekens/symbolen prentboek](https://imgur.com/f8Zz8ov)<br>
 [Runway ML Experiment Machine Learning](https://imgur.com/kxho7sD)<br> 
 [Schetsen Hitler Tablet + Boek](https://imgur.com/Docj9PD)<br> 
+[Concept Gif](https://imgur.com/6nv6bAx)<br>
+[Midterm Concept Video](https://www.youtube.com/watch?v=kXx5nQrLoCU)<br>
+
 
 </details><br>
 

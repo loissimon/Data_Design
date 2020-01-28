@@ -369,6 +369,7 @@ Family Finger Song Book AA.VV.
 
 **_Prentenboek:_** <br>
 <details><summary><b>Inspiratie </b></summary>
+
 [Inspiratie Prentenboek 1](https://imgur.com/3BvJQ6I)<br>
 [Inspiratie Prentenboek 2](https://imgur.com/0EogBdc)<br>
 [Inspiratie Prentenboek 3](https://imgur.com/2n6m5si)<br>
@@ -383,21 +384,14 @@ https://www.youtube.com/watch?v=MHRDM5nb8Ks <br>
 https://www.youtube.com/watch?v=ph1ap9i9pA0 <br>
 https://www.youtube.com/watch?v=sLpW53E0r8w <br>
 https://www.youtube.com/watch?v=Fhs10Yh-PiQ <br>
-                                              
-
-
-  
-  
-  
-  
-  
-  
-  
+ 
 </details><br>
 
 <details><summary><b>Visueel proces met schetsen/experimenten </b></summary>
-[
 
+[Schetsen tekens/symbolen prentboek](https://imgur.com/f8Zz8ov)<br>
+[Runway ML Experiment Machine Learning](https://imgur.com/kxho7sD)<br> 
+[Schetsen Hitler Tablet + Boek](https://imgur.com/Docj9PD)<br> 
 
 </details><br>
 

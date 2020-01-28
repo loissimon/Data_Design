@@ -461,6 +461,8 @@ https://www.uscybersecurity.net/elsagate/ <br>
 https://meco6936.wordpress.com/2018/04/23/how-algorithms-are-changing-the-way-we-receive-and-understand-information/ <br>
 https://jods.mitpress.mit.edu/pub/fcmpfgk5<br>
 https://youtube.fandom.com/wiki/Elsagate <br> 
+https://arxiv.org/pdf/1904.08910.pdf<br>
+  
   
   
   

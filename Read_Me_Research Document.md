@@ -437,6 +437,18 @@ https://www.youtube.com/playlist?list=PLukWvGHPbYxtqrHj5B0kvvb5uSFbEAxav<br>
 https://www.youtube.com/user/keahikoolguy/videos <br>
 https://www.youtube.com/watch?v=a30VItA6odw <br>
 https://www.youtube.com/watch?v=m8HDVBe1T-Q <br>
+https://www.youtube.com/channel/UCtZE7h1raXDkbE5lPhV1wkw/videos <br>
+https://www.youtube.com/watch?v=hV5-LhDDGl8 <br>
+https://www.youtube.com/watch?v=eTvdTT_7mbs <br>
+https://www.youtube.com/watch?v=SCr8hTnYKjM <br>
+https://www.youtube.com/watch?v=-ybqPhNg0CM&list=PLqBuX5uE9BovCW23lscRDHGLPW53lkSzo <br>
+https://www.youtube.com/watch?v=-HIFX5VcXlQ <br>
+https://www.youtube.com/watch?v=G9s_RH2drE0 <br>
+https://www.youtube.com/channel/UC6JGfIZBAuc8ZiH-DrIKaYQ/videos <br>
+
+
+                                               
+                                                                  
 
 
   <br>

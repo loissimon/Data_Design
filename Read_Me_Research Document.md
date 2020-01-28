@@ -18,6 +18,8 @@ Elsagate is de wolf in schaapskleren op Youtube. Er staan tig video’s online w
 </details>
 
 <details><summary><b>Ontstaan van Elsagate</b></summary>
+De eerste Elsagate video's verschenen op het internet rond 2014.
+
 Het is fenomeen is ontstaan vanuit het kinderliedje Finger Family Song. Dit is weer afkomstig van een veel oudere rijm liedje genaamd "Tommy Thumb", en mogelijk een Japans lied, "Ohanashi yubi-san" (Talking Fingers).
 <br><br>
 Een van de eerste Finger Family Song video’s ge-upload op Youtube kwam uit India.

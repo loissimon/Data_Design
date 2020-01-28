@@ -447,7 +447,15 @@ https://www.youtube.com/watch?v=SCr8hTnYKjM <br>
 https://www.youtube.com/watch?v=-ybqPhNg0CM&list=PLqBuX5uE9BovCW23lscRDHGLPW53lkSzo <br>
 https://www.youtube.com/watch?v=-HIFX5VcXlQ <br>
 https://www.youtube.com/watch?v=G9s_RH2drE0 <br>
-https://www.youtube.com/channel/UC6JGfIZBAuc8ZiH-DrIKaYQ/videos 
+https://www.youtube.com/channel/UC6JGfIZBAuc8ZiH-DrIKaYQ/videos <br>
+https://www.youtube.com/watch?v=QnH445FcQn0<br>
+https://www.youtube.com/watch?v=3zNoyLEC1-k <br>
+https://www.youtube.com/watch?v=v9EKV2nSU8w<br>
+https://www.youtube.com/watch?v=AyGcuaqVUKk<br>
+https://www.youtube.com/watch?v=wiiFgsDJ8xk <br>
+https://www.youtube.com/watch?v=uKt7BMUy-40 <br>
+https://www.youtube.com/watch?v=lDEkwkzAIEQ <br>
+
   
 <br><br>
 - 20150729 Masterthesis Brigitte Hillenaar 3505782 Universiteit Utrecht.pdf <br>

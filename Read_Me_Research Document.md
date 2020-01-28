@@ -385,10 +385,11 @@ https://www.youtube.com/watch?v=ph1ap9i9pA0 <br>
 https://www.youtube.com/watch?v=sLpW53E0r8w <br>
 https://www.youtube.com/watch?v=Fhs10Yh-PiQ <br>
  
-</details><br>
+</details>
 
 <details><summary><b>Visueel proces met schetsen/experimenten </b></summary>
 
+[Concept Brainstorm](https://imgur.com/YCXUTIK)<br>  
 [Schetsen tekens/symbolen prentboek](https://imgur.com/f8Zz8ov)<br>
 [Runway ML Experiment Machine Learning](https://imgur.com/kxho7sD)<br> 
 [Schetsen Hitler Tablet + Boek](https://imgur.com/Docj9PD)<br> 

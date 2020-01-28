@@ -87,19 +87,19 @@ Zoon - middelvinger<br>
 Dochter - Ringvinger<br> 
 Baby (onbekend geslacht) - Roze<br> <br> 
   
-[Finger Family Song Screenshot 1](https://imgur.com/BoW9zOR)
-[Finger Family Song Screenshot 2](https://imgur.com/9YiHeAE)
-[Finger Family Song Screenshot 3](https://imgur.com/nu6kvtq)
-[Finger Family Song Screenshot 4](https://imgur.com/CdWYMlm)
-[Finger Family Song Screenshot 5](https://imgur.com/puldJHo)
-[Finger Family Song Screenshot 6](https://imgur.com/W85wXnV)
-[Finger Family Song Screenshot 7](https://imgur.com/i0p5Oav)
-[Finger Family Song Screenshot 8](https://imgur.com/aBEPv2m)
-[Finger Family Song Screenshot 9](https://imgur.com/J5tM5O0)
-[Finger Family Song Screenshot 10](https://imgur.com/IZTuHrM)
-[Finger Family Song Screenshot 11](https://imgur.com/FMVPZgM)
-[Finger Family Song Screenshot 12](https://imgur.com/bJiWiKI)
-[Finger Family Song Screenshot 13](https://imgur.com/Bf0iMmI)
+[Finger Family Song Screenshot 1](https://imgur.com/BoW9zOR)<br>
+[Finger Family Song Screenshot 2](https://imgur.com/9YiHeAE)<br>
+[Finger Family Song Screenshot 3](https://imgur.com/nu6kvtq)<br>
+[Finger Family Song Screenshot 4](https://imgur.com/CdWYMlm)<br>
+[Finger Family Song Screenshot 5](https://imgur.com/puldJHo)<br>
+[Finger Family Song Screenshot 6](https://imgur.com/W85wXnV)<br>
+[Finger Family Song Screenshot 7](https://imgur.com/i0p5Oav)<br>
+[Finger Family Song Screenshot 8](https://imgur.com/aBEPv2m)<br>
+[Finger Family Song Screenshot 9](https://imgur.com/J5tM5O0)<br>
+[Finger Family Song Screenshot 10](https://imgur.com/IZTuHrM)<br>
+[Finger Family Song Screenshot 11](https://imgur.com/FMVPZgM)<br>
+[Finger Family Song Screenshot 12](https://imgur.com/bJiWiKI)<br>
+[Finger Family Song Screenshot 13](https://imgur.com/Bf0iMmI)<br>
 <br>
 </details><br> 
 
@@ -128,28 +128,29 @@ In de onschuldige essentie gaat het om kleuren en termen leren (dieren, familie,
 - Seksualiseren van zwangere kinderen, wat gezien moet worden als iets positiefs  <br>
   <br>
   
-[Elsagate Screenshot 1](https://imgur.com/7QX1KMV)
-[Elsagate Screenshot 2](https://imgur.com/3w0T41U)
-[Elsagate Screenshot 3](https://imgur.com/1yjNMnl)
-[Elsagate Screenshot 4](https://imgur.com/3rRVlkO)
-[Elsagate Screenshot 5](https://imgur.com/6azSvsm)
-[Elsagate Screenshot 6](https://imgur.com/nV4xO1s)
-[Elsagate Screenshot 7](https://imgur.com/y9m6th8)
-[Elsagate Screenshot 8](https://imgur.com/r0NBdFY)
-[Elsagate Screenshot 9](https://imgur.com/XarCBsc)
-[Elsagate Screenshot 10](https://imgur.com/JJFMeZs)
-[Elsagate Screenshot 11](https://imgur.com/TGs28AA)
-[Elsagate Screenshot 12](https://imgur.com/BOVeQPU)
-[Elsagate Screenshot 13](https://imgur.com/cND8ORr)
-[Elsagate Screenshot 14](https://imgur.com/odwCBca)
-[Elsagate Screenshot 15](https://imgur.com/xd6AJmC)
-[Elsagate Screenshot 16](https://imgur.com/d0xJEFf)
-[Elsagate Screenshot 17](https://imgur.com/BEZsPbD)
-[Elsagate Screenshot 18]()
-[Elsagate Screenshot 19]()
-[Elsagate Screenshot 20]()
+[Elsagate Screenshot 1](https://imgur.com/7QX1KMV)<br>
+[Elsagate Screenshot 2](https://imgur.com/3w0T41U)<br>
+[Elsagate Screenshot 3](https://imgur.com/1yjNMnl)<br>
+[Elsagate Screenshot 4](https://imgur.com/3rRVlkO)<br>
+[Elsagate Screenshot 5](https://imgur.com/6azSvsm)<br>
+[Elsagate Screenshot 6](https://imgur.com/nV4xO1s)<br>
+[Elsagate Screenshot 7](https://imgur.com/y9m6th8)<br>
+[Elsagate Screenshot 8](https://imgur.com/r0NBdFY)<br>
+[Elsagate Screenshot 9](https://imgur.com/XarCBsc)<br>
+[Elsagate Screenshot 10](https://imgur.com/JJFMeZs)<br>
+[Elsagate Screenshot 11](https://imgur.com/TGs28AA)<br>
+[Elsagate Screenshot 12](https://imgur.com/BOVeQPU)<br>
+[Elsagate Screenshot 13](https://imgur.com/cND8ORr)<br>
+[Elsagate Screenshot 14](https://imgur.com/odwCBca)<br>
+[Elsagate Screenshot 15](https://imgur.com/xd6AJmC)<br>
+[Elsagate Screenshot 16](https://imgur.com/d0xJEFf)<br>
+[Elsagate Screenshot 17](https://imgur.com/BEZsPbD)<br>
+[Elsagate Screenshot 18]()<br>
+[Elsagate Screenshot 19]()<br>
+[Elsagate Screenshot 20]()<br>
   
   [Terugkerende elementen Elsagate content](https://imgur.com/xDsX0ZO)
+  <br>
   
 </details> 
   

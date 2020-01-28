@@ -349,6 +349,8 @@ In die versie zit research en data verwerkt over het onderwerp om ouders en verz
 <details><summary><b>Bestaat er al een boek over Elsagate?</b></summary>  
 Niet echt, behalve;
 Family Finger Song Book AA.VV.
+  
+[Boek verkrijgbaar op Amazon](https://imgur.com/YQ4q6Om)<br>
  
  </details>
 
@@ -398,11 +400,6 @@ https://www.youtube.com/watch?v=Fhs10Yh-PiQ <br>
 
 
 </details><br>
-
-
-
-
-
 
 **_Bronnen:_** <br>
 <details><summary><b>Links video’s en artikelen </b></summary> 

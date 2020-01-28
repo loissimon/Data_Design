@@ -455,7 +455,11 @@ https://www.youtube.com/watch?v=AyGcuaqVUKk<br>
 https://www.youtube.com/watch?v=wiiFgsDJ8xk <br>
 https://www.youtube.com/watch?v=uKt7BMUy-40 <br>
 https://www.youtube.com/watch?v=lDEkwkzAIEQ <br>
-
+https://www.uscybersecurity.net/elsagate/ <br>
+https://meco6936.wordpress.com/2018/04/23/how-algorithms-are-changing-the-way-we-receive-and-understand-information/ <br>
+https://jods.mitpress.mit.edu/pub/fcmpfgk5<br>
+  
+  
   
 <br><br>
 - 20150729 Masterthesis Brigitte Hillenaar 3505782 Universiteit Utrecht.pdf <br>
@@ -463,6 +467,8 @@ https://www.youtube.com/watch?v=lDEkwkzAIEQ <br>
 - Anna Hart, 3510611, Bachelor Eindwerkstuk, blok 1.docx <br>
 - Onbegrijpelijk. De dood in Sesamstraat, scriptie.doc <br>
 - Top 10 Tekenfilms Voor Volwassenen - Alletop10lijstjes.pdf <br>
+- Van Tuijl 466723 NMDC Thesis 'Imagining Algorithms in Everday Social Media Life' <br> 
+
 
                                                           
 
